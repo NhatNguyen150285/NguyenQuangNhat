@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "840802747320",
+    "project_id": "nguyenquangnhat-foodyapp",
+    "storage_bucket": "nguyenquangnhat-foodyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840802747320:android:d6731736b6fa11622a054d",
+        "android_client_info": {
+          "package_name": "com.example.nguyenquangnhat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840802747320-lpj1kn1lmssm3taaehon3m7ch35i9lfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc_t99GYqf1etjMkXMBWbd1LLMVliuY4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840802747320-lpj1kn1lmssm3taaehon3m7ch35i9lfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
